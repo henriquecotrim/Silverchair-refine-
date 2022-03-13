@@ -1,0 +1,151 @@
+body { 
+  text-align:center; 
+  font-family:Arial, Helvetica, sans-serif;
+  background-color:#0d0c0b;
+  margin-left:16%;
+  Margin-right:16%;
+  margin-bottom:40px;
+  hyphens:auto;
+}
+  
+  .alternativo{
+  background-color:#edd464;
+  margin-top:0;
+  color:#4f451c;
+  font-size:30px;
+  text-indent:0em;
+  margin-right:15%;
+  font-weight:0;
+  text-align:left;
+  width: 100%;
+  font-family:arial, sans-serif;
+  word-spacing:7px;
+  letter-spacing:2px;
+  text-decoration:none;
+  }
+
+   .seta{
+    width:5%;
+  }
+
+  ul{
+    background-color: #b56e80;
+    font-size: 20px;
+    margin-left:15%;
+    margin-right:15%;
+    list-style-type:none;
+    padding-left:20px;
+    } 
+  .menu{
+    color:#f5edf3;
+  }
+ p{
+    font-size: 22px;
+    font-weight:0;
+    color:#b3b098;
+    text-align:left;
+    width: 100%;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom:0.7;
+    text-indent:2em;
+    line-height:1.3
+      
+      }
+  h1{
+      font-size: 50px;
+      font-weight: 600;
+      text-align: center;
+      margin: 20px;
+      color: #c93126;
+      font-family: 'Times New Roman', Times, serif
+    }
+  h2{
+    color: #9948e0;
+    font-size: 35px;
+    text-align: center;
+     font-weight: 600;
+    }
+    h3{
+    font-size: 31px;
+    color:#f28211;
+     
+    }
+  
+  img{
+    width:55%;
+    
+  }
+
+ section{
+  width:85%;
+  margin:0 auto;
+
+
+
+  .navbar {
+  width: 100%;
+  background-color: #2D0B05;
+  overflow: auto;
+}
+  
+}
+
+  section section{
+  width: 100%;
+}
+
+.clique{
+  font-size: 18px;
+  text-align:center; 
+  color:#41f341;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  
+}
+
+.ben{
+  font-style:italic;
+  font-size:19px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  color:#f5edf3;
+  text-indent:2em;
+}
+
+.school{
+
+  margin-bottom: 20px;
+  margin-top: 18px;
+}
+
+iframe{
+
+  margin-top: 21px;
+  margin-bottom: 21px;
+
+}
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
